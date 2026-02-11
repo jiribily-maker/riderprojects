@@ -1,0 +1,15 @@
+C:\Users\jirou\RiderProjects\oop basic 2\bin\Debug\net9.0\oop basic 2.exe
+C:\Users\jirou\RiderProjects\oop basic 2\bin\Debug\net9.0\oop basic 2.deps.json
+C:\Users\jirou\RiderProjects\oop basic 2\bin\Debug\net9.0\oop basic 2.runtimeconfig.json
+C:\Users\jirou\RiderProjects\oop basic 2\bin\Debug\net9.0\oop basic 2.dll
+C:\Users\jirou\RiderProjects\oop basic 2\bin\Debug\net9.0\oop basic 2.pdb
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\oop basic 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\oop basic 2.AssemblyInfoInputs.cache
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\oop basic 2.AssemblyInfo.cs
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\oop basic 2.csproj.CoreCompileInputs.cache
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\oop basic 2.sourcelink.json
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\oop basic 2.dll
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\refint\oop basic 2.dll
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\oop basic 2.pdb
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\oop basic 2.genruntimeconfig.cache
+C:\Users\jirou\RiderProjects\oop basic 2\obj\Debug\net9.0\ref\oop basic 2.dll
