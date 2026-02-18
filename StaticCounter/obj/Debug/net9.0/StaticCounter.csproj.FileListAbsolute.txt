@@ -1,0 +1,15 @@
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\StaticCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\StaticCounter.AssemblyInfoInputs.cache
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\StaticCounter.AssemblyInfo.cs
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\StaticCounter.csproj.CoreCompileInputs.cache
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\StaticCounter.sourcelink.json
+C:\Users\jirou\RiderProjects\StaticCounter\bin\Debug\net9.0\StaticCounter.exe
+C:\Users\jirou\RiderProjects\StaticCounter\bin\Debug\net9.0\StaticCounter.deps.json
+C:\Users\jirou\RiderProjects\StaticCounter\bin\Debug\net9.0\StaticCounter.runtimeconfig.json
+C:\Users\jirou\RiderProjects\StaticCounter\bin\Debug\net9.0\StaticCounter.dll
+C:\Users\jirou\RiderProjects\StaticCounter\bin\Debug\net9.0\StaticCounter.pdb
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\StaticCounter.dll
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\refint\StaticCounter.dll
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\StaticCounter.pdb
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\StaticCounter.genruntimeconfig.cache
+C:\Users\jirou\RiderProjects\StaticCounter\obj\Debug\net9.0\ref\StaticCounter.dll

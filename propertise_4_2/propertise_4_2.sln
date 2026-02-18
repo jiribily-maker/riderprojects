@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "propertise_4_2", "propertise_4_2.csproj", "{694F57FC-A434-4418-9C2F-E6F8B8576EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{694F57FC-A434-4418-9C2F-E6F8B8576EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694F57FC-A434-4418-9C2F-E6F8B8576EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694F57FC-A434-4418-9C2F-E6F8B8576EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694F57FC-A434-4418-9C2F-E6F8B8576EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
