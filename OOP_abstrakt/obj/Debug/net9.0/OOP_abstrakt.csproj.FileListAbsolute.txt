@@ -1,0 +1,15 @@
+C:\Users\jirou\RiderProjects\OOP_abstrakt\bin\Debug\net9.0\OOP_abstrakt.exe
+C:\Users\jirou\RiderProjects\OOP_abstrakt\bin\Debug\net9.0\OOP_abstrakt.deps.json
+C:\Users\jirou\RiderProjects\OOP_abstrakt\bin\Debug\net9.0\OOP_abstrakt.runtimeconfig.json
+C:\Users\jirou\RiderProjects\OOP_abstrakt\bin\Debug\net9.0\OOP_abstrakt.dll
+C:\Users\jirou\RiderProjects\OOP_abstrakt\bin\Debug\net9.0\OOP_abstrakt.pdb
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\OOP_abstrakt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\OOP_abstrakt.AssemblyInfoInputs.cache
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\OOP_abstrakt.AssemblyInfo.cs
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\OOP_abstrakt.csproj.CoreCompileInputs.cache
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\OOP_abstrakt.sourcelink.json
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\OOP_abstrakt.dll
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\refint\OOP_abstrakt.dll
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\OOP_abstrakt.pdb
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\OOP_abstrakt.genruntimeconfig.cache
+C:\Users\jirou\RiderProjects\OOP_abstrakt\obj\Debug\net9.0\ref\OOP_abstrakt.dll

@@ -1,0 +1,15 @@
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\bin\Debug\net9.0\OOP_abs_Ukol.exe
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\bin\Debug\net9.0\OOP_abs_Ukol.deps.json
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\bin\Debug\net9.0\OOP_abs_Ukol.runtimeconfig.json
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\bin\Debug\net9.0\OOP_abs_Ukol.dll
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\bin\Debug\net9.0\OOP_abs_Ukol.pdb
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\OOP_abs_Ukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\OOP_abs_Ukol.AssemblyInfoInputs.cache
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\OOP_abs_Ukol.AssemblyInfo.cs
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\OOP_abs_Ukol.csproj.CoreCompileInputs.cache
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\OOP_abs_Ukol.sourcelink.json
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\OOP_abs_Ukol.dll
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\refint\OOP_abs_Ukol.dll
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\OOP_abs_Ukol.pdb
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\OOP_abs_Ukol.genruntimeconfig.cache
+C:\Users\jirou\RiderProjects\OOP_abs_Ukol\obj\Debug\net9.0\ref\OOP_abs_Ukol.dll

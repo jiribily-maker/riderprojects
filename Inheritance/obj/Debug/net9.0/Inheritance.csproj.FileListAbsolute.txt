@@ -1,0 +1,15 @@
+C:\Users\jirou\RiderProjects\Inheritance\bin\Debug\net9.0\Inheritance.exe
+C:\Users\jirou\RiderProjects\Inheritance\bin\Debug\net9.0\Inheritance.deps.json
+C:\Users\jirou\RiderProjects\Inheritance\bin\Debug\net9.0\Inheritance.runtimeconfig.json
+C:\Users\jirou\RiderProjects\Inheritance\bin\Debug\net9.0\Inheritance.dll
+C:\Users\jirou\RiderProjects\Inheritance\bin\Debug\net9.0\Inheritance.pdb
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\Inheritance.AssemblyInfo.cs
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\Inheritance.sourcelink.json
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\Inheritance.dll
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\refint\Inheritance.dll
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\Inheritance.pdb
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\Inheritance.genruntimeconfig.cache
+C:\Users\jirou\RiderProjects\Inheritance\obj\Debug\net9.0\ref\Inheritance.dll
