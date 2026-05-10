@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("OOP_abs_Ukol")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RPG_Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4d4a764832816056a989e551f85d6a241c6d29d")]
-[assembly: System.Reflection.AssemblyProductAttribute("OOP_abs_Ukol")]
-[assembly: System.Reflection.AssemblyTitleAttribute("OOP_abs_Ukol")]
+[assembly: System.Reflection.AssemblyProductAttribute("RPG_Game")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RPG_Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

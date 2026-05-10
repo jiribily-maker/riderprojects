@@ -3,7 +3,7 @@
     public static void NotifyAll(
         List<IMessageService> services,
         string target,
-        string message)
+        string message) 
     {
         foreach (var service in services)
         {

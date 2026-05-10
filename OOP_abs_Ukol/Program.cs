@@ -3,4 +3,4 @@
     new SmsService(),
     new HolubService()
 };
-NotificationManager.NotifyAll(services, "David", "Hello to everyone!");
+NotificationManager.NotifyAll(services, "Jirka", "co vy tu velice");
