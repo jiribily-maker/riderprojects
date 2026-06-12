@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("static_counter ukol2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25241e8083e9465053aa9187a1286a862305ccf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a74d492b3b44f3da85e48a2d52b7af64add2ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("static_counter ukol2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("static_counter ukol2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

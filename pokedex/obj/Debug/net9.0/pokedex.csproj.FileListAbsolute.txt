@@ -1,0 +1,15 @@
+C:\Users\jirou\RiderProjects\pokedex\bin\Debug\net9.0\pokedex.exe
+C:\Users\jirou\RiderProjects\pokedex\bin\Debug\net9.0\pokedex.deps.json
+C:\Users\jirou\RiderProjects\pokedex\bin\Debug\net9.0\pokedex.runtimeconfig.json
+C:\Users\jirou\RiderProjects\pokedex\bin\Debug\net9.0\pokedex.dll
+C:\Users\jirou\RiderProjects\pokedex\bin\Debug\net9.0\pokedex.pdb
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\pokedex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\pokedex.AssemblyInfoInputs.cache
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\pokedex.AssemblyInfo.cs
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\pokedex.csproj.CoreCompileInputs.cache
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\pokedex.sourcelink.json
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\pokedex.dll
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\refint\pokedex.dll
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\pokedex.pdb
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\pokedex.genruntimeconfig.cache
+C:\Users\jirou\RiderProjects\pokedex\obj\Debug\net9.0\ref\pokedex.dll

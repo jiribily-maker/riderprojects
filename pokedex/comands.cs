@@ -1,4 +1,6 @@
-﻿public delegate void CommandFunc();
+﻿namespace Pokedex;
+
+public delegate Task CommandFunc(PokedexState state);
 
 public class Command
 {

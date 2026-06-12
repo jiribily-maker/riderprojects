@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gra dvojka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f19984547c2a8edcc35d5506ed28bbba230e39b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2a74d492b3b44f3da85e48a2d52b7af64add2ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("gra dvojka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gra dvojka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
