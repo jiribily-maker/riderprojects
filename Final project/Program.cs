@@ -7,11 +7,24 @@
     static void vypis_skore()
     {
         Console.Clear();
-        Console.WriteLine("Dealer cards");
+        
+        // Výpis všech kart dealera
+        Console.WriteLine("Dealer cards:");
+        foreach (string karta in balicek_dealer.MojeKarty)
+        {
+            Console.WriteLine($"  {karta}");
+        }
         Console.WriteLine($"Soucet dealer: {balicek_dealer.soucet()}");
         Console.WriteLine("____________");
-        Console.WriteLine("Player cards");
+        
+        // Výpis všech kart hráče
+        Console.WriteLine("Player cards:");
+        foreach (string karta in balicek_hrac.MojeKarty)
+        {
+            Console.WriteLine($"  {karta}");
+        }
         Console.WriteLine($"Soucet: {balicek_hrac.soucet()}");
+        Console.WriteLine("____________");
     }
 
     static void Main()
@@ -62,7 +75,7 @@
             if (!hracPrekrocil)
             {
                 Console.WriteLine("dealer hraje...");
-                System.Threading.Thread.Sleep(1500);
+                Thread.Sleep(1500);
 
                 //DEALER BERE DOKUD NEMA 17
                 while (balicek_dealer.soucet() < 17)
@@ -70,7 +83,7 @@
                     balicek_dealer.randomcard();
                     vypis_skore();
                     Console.WriteLine("Dealer si líznul kartu...");
-                    System.Threading.Thread.Sleep(1500);
+                    Thread.Sleep(1500);
                 }
                 
                 vypis_skore();

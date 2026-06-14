@@ -5,6 +5,8 @@
     
     public int finalhodnota { get; set; }
 
+    //LIST NA UKLADANI AKTUALNICH KARET
+    public List<string> MojeKarty { get; set; } = new List<string>();
     public override void randomcard()
     {
         base.randomcard();
@@ -12,7 +14,7 @@
         finalcislo = cislo;
         finalznak = symbol;
         
-        Console.WriteLine($"{finalznak} --- {finalcislo}");
+        MojeKarty.Add($"{finalcislo} --- {finalznak}");
 
         // VÝPOČET HODNOTY
         if (finalcislo == "J" || finalcislo == "Q" || finalcislo == "K")

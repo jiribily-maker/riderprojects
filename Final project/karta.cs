@@ -2,7 +2,7 @@
 {
     public string cislo { get; set; } 
   public   string symbol {get; set;}
-    Random nahoda = new Random();
+    protected Random nahoda = new Random();
     public virtual  void randomcard()
     {
         List<string> cisla = new List<string> {"A","2","3","4","5","6","7","8","9","10","J","Q","K" };
